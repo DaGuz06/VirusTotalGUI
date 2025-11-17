@@ -1,3 +1,4 @@
+# run.py
 import sys
 from PyQt6.QtWidgets import QApplication, QDialog
 from initPage import Ui_ObtainAPI
