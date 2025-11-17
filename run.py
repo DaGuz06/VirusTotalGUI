@@ -1,6 +1,6 @@
 import sys
 from PyQt6.QtWidgets import QApplication, QDialog
-from initPage  import Ui_ObtainAPI
+from initPage import Ui_ObtainAPI
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)
